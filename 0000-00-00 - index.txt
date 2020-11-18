@@ -48,3 +48,5 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | video title + (participants)
 10/19/2020 | 01:19:50 | bit.ly/2HzPLSF | More Rich and Mike's Top Ten TNG Episodes (Mike, Rich)
 10/23/2020 | 00:14:14 | bit.ly/3dWn6mD | More Friday the 13th Sequel Talk (Jay, Josh)
 10/19/2020 | 01:19:51 | bit.ly/2T7TLwf | More Rich and Mike's Top Ten TNG Episodes
+
+https://www.redlettermedia.com/review
